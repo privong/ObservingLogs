@@ -1,9 +1,9 @@
 ---
 title: 'Observing Run'
-author: Observer 1
+author: Observer 1, Observer 2
 observatory:
-telescope: Telescope Name
-instrument: Instrument Name
+telescope: 
+instrument: 
 date:
 ---
 
@@ -31,5 +31,7 @@ Table: Exposure Log
 
              UTC    RA            Dec           Frame       Type/Object                     tint    filter  airmass Seeing  Notes
 ----------------    ---------     -----------   ---------   ---------                       ----    ------  ------- ------  -----
+
+## Morning
 
 # Data Notes
