@@ -13,6 +13,8 @@ date:
 
 ## Pre-opening
 
+### Instrument Setup
+
 ### Calibrations
 
 Table: Calibrations Taken
