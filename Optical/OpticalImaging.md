@@ -5,6 +5,9 @@ observatory:
 telescope: 
 instrument: 
 date:
+
+geometry: margin=1in
+class: report
 ---
 
 # Night Summary
